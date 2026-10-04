@@ -10,3 +10,5 @@ pip install -r requirements.txt
 
 cat codes.txt | python check.py --token YOUR_ROBLOX_TOKEN
 
+
+<!-- last-checked: 2026-10-04 -->
